@@ -46,6 +46,7 @@ background:transparent !important;
 .flex {
     display: flex;
     flex-flow: row wrap;
+    flex-direction: row;
 
 }
 .item {
@@ -53,7 +54,24 @@ background:transparent !important;
     flex: 1 1;
     box-sizing: border-box;
     text-align: center;
+    justify-content: space-around;
 }
+@media screen and (max-width: 800px) {
+    .flex {
+        display: flex;
+        flex-flow: row wrap;
+        flex-direction: column;
+    
+    }
+    .item {
+        flex-wrap: wrap;
+        flex: 1 1 1;
+        box-sizing: border-box;
+        text-align: center;
+        
+    }
+    /* specific CSS */
+  }
 .advantages{
     margin-top: 40px;
 }
