@@ -1,0 +1,45 @@
+a,h1,h2,h3,h4,p,span{
+    font-family: 'Oswald', sans-serif;
+}
+.navbar{
+background:transparent !important;
+}
+.section-hero{
+    background:url(../img/main-bg.jpg) no-repeat center/cover;
+    min-height: 600px;
+
+}
+.section-hero-inner{
+    padding-right: 60px;
+}
+.section-hero p {
+    text-align: right;
+    margin: 0 0 14px 0;
+}
+.section-hero h1:after {
+    content: '';
+    position: absolute;
+    width: 223px;
+    height: 10px;
+    right: 0;
+    bottom: 0;
+    background-color: #ed3c94;
+}
+.section-hero h1 {
+    padding-top:45px ;
+    font-size: 48px;
+    text-transform: uppercase;
+    font-weight: 500;
+    text-align: right;
+    position: relative;
+    padding-bottom: 22px;
+    margin-bottom: 18px;
+}
+.btn{
+    background: #ed3c94;
+    border: none;
+}
+.btn:hover{
+    background: #b80ce4;
+    
+}
