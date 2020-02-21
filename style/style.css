@@ -79,5 +79,6 @@ background:transparent !important;
 @media screen and (max-width: 800px){
     video{
         max-height: 600px;
+        max-width: 300px;
     }
 }
