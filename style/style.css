@@ -76,3 +76,8 @@ background:transparent !important;
 .advantages{
     margin-top: 40px;
 }
+@media screen and (max-width: 800px){
+    video{
+        max-height: 600px;
+    }
+}
