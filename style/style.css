@@ -86,6 +86,7 @@ background:transparent !important;
         top: 25%;
         bottom: 25%;
     }
+    
 }
 .video-section h2{
     text-align: center;
@@ -112,6 +113,7 @@ div.row{
 .row{
     margin-left:0 !important;
     margin-right: 0 !important;
+   
 }
 img{
     max-width: screen;
