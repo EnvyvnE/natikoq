@@ -82,8 +82,9 @@ background:transparent !important;
         max-height: 600px;
         width: 300px;
     }
-    .modal{
+    .modal-content{
         top: 25%;
+        bottom: 25%;
     }
 }
 .video-section h2{
