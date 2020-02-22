@@ -118,3 +118,17 @@ div.row{
 img{
     max-width: screen;
 }
+footer{
+    background: rgb(221, 154, 91);
+    height: auto;
+    margin-top: 25px;
+    display: flex;
+    justify-content: center;
+}
+i{
+    font-size: 2em;
+   
+}  
+a.insta-href{
+text-decoration: none;
+} 
