@@ -1,3 +1,7 @@
+*{
+    max-width: 100%;
+    box-sizing:border-box;
+}
 a,h1,h2,h3,h4,p,span{
     font-family: 'Oswald', sans-serif;
 }
@@ -102,7 +106,8 @@ a{
 }
 div.row{
     margin-top: 30px;
+    box-sizing:border-box;
 }
-video{
-    ato
+.row{
+    margin-left:0 !important;
 }
