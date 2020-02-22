@@ -86,7 +86,10 @@ background:transparent !important;
         top: 25%;
         bottom: 25%;
     }
-    
+    i{
+        font-size: 1.3em;
+       
+    } 
 }
 .video-section h2{
     text-align: center;
