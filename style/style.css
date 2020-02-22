@@ -89,3 +89,17 @@ video{
     display: block;
     margin: 0 auto;  
 }
+.nav-pills .nav-link.active, .nav-pills .show>.nav-link {
+    color: #fff;
+    background-color: #ed3c94;
+}
+a{
+    color: black;
+}
+.tab-pane{
+    display:flex;
+    flex-direction: row;
+}
+div.row{
+    margin-top: 30px;
+}
