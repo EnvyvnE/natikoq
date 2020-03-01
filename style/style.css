@@ -23,11 +23,16 @@ background:transparent !important;
         min-height: 800px;
     
   }
-  h1{
-    color: whitesmoke; 
+  span{
+      
+      background-color: hsla(19, 81%, 51%,0.5);
+      
+  }
+  .section-hero h1{
+    color: white; 
   }
   h3{
-    color: whitesmoke;  
+    color: white;  
   }
   .section-hero h1:after {
     content: '';
