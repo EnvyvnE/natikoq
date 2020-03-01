@@ -29,10 +29,10 @@ background:transparent !important;
       
   }
   .section-hero h1{
-    color: white; 
+    color: black; 
   }
   h3{
-    color: white;  
+    color: black;  
   }
   .section-hero h1:after {
     content: '';
@@ -44,7 +44,7 @@ background:transparent !important;
     background-color: hsl(19, 81%, 51%);
 }
   .section-hero p {
-    color: whitesmoke;
+    color: black;
 }
 
 }
