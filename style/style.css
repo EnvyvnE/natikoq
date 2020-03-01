@@ -131,7 +131,7 @@ video{
 }
 .nav-pills .nav-link.active, .nav-pills .show>.nav-link {
     color: #fff;
-    background-color: #ed3c94;
+    background-color: hsl(19, 81%, 51%);
 }
 a{
     color: black;
