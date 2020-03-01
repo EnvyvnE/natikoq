@@ -23,11 +23,11 @@ background:transparent !important;
         min-height: 800px;
     
   }
-  span{
+  /* span{
       
       background-color: hsla(19, 81%, 51%,0.5);
       
-  }
+  } */
   .section-hero h1{
     color: black; 
   }
