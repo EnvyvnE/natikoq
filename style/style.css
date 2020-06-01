@@ -167,6 +167,9 @@ footer{
     width: screen;
     
 }
+footer a{
+    padding: 10px 0 10px 0;
+}
 i{
     font-size: 2em;
    
