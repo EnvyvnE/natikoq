@@ -1,6 +1,7 @@
 html {
     // your css to create a cover image 
     padding: env(safe-area-inset); // <- this is the missing piece. Add it.
+    
   }
 
 a,h1,h2,h3,h4,p,span{
@@ -8,6 +9,7 @@ a,h1,h2,h3,h4,p,span{
 }
 .wrapper{
     margin: 0px 20px;
+
 }
 .navbar{
 background:transparent !important;
