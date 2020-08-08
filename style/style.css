@@ -1,6 +1,6 @@
 html {
-    // your css to create a cover image 
-    padding: env(safe-area-inset); // <- this is the missing piece. Add it.
+    
+    padding: env(safe-area-inset);
     
   }
 
